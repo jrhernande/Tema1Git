@@ -1,0 +1,2 @@
+Git permite la creacion de muchas ramas distintas y bonitas
+
