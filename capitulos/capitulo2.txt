@@ -1,0 +1,2 @@
+El flujo de trabajo basicop con git consoiste enj : 1- nHacer cambios en el 
+repositorio con el insertmajcia termposal
